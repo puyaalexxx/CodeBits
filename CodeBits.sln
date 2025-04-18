@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# 
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-SecondBiggestArrayNumber", "01-SecondBiggestArrayNumber\01-SecondBiggestArrayNumber.csproj", "{7EE1167E-CA69-468F-8976-5B6F7341708E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-BiggestArrayNumber", "02-BiggestArrayNumber\02-BiggestArrayNumber.csproj", "{BFA91C32-27BB-4ABA-A4A7-E7FF918A6B4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +15,9 @@ Global
 		{7EE1167E-CA69-468F-8976-5B6F7341708E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EE1167E-CA69-468F-8976-5B6F7341708E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EE1167E-CA69-468F-8976-5B6F7341708E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA91C32-27BB-4ABA-A4A7-E7FF918A6B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA91C32-27BB-4ABA-A4A7-E7FF918A6B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA91C32-27BB-4ABA-A4A7-E7FF918A6B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA91C32-27BB-4ABA-A4A7-E7FF918A6B4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
