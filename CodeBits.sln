@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-SecondBiggestArrayNumber
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-BiggestArrayNumber", "02-BiggestArrayNumber\02-BiggestArrayNumber.csproj", "{BFA91C32-27BB-4ABA-A4A7-E7FF918A6B4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-ArraySum", "03-ArraySum\03-ArraySum.csproj", "{8FDDED37-2E09-487C-A4E1-121C8C252F02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{BFA91C32-27BB-4ABA-A4A7-E7FF918A6B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFA91C32-27BB-4ABA-A4A7-E7FF918A6B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFA91C32-27BB-4ABA-A4A7-E7FF918A6B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FDDED37-2E09-487C-A4E1-121C8C252F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FDDED37-2E09-487C-A4E1-121C8C252F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FDDED37-2E09-487C-A4E1-121C8C252F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FDDED37-2E09-487C-A4E1-121C8C252F02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
